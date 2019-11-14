@@ -1,0 +1,33 @@
+data_airpollution:
+total 2548
+-rw-r--r-- 1 sewookkim 1049089  17037 11월  6 19:39 서울시 일별 평균 대기오염도 정보.xlsx
+-rw-r--r-- 1 sewookkim 1049089 674938 11월  6 19:37 일별평균대기오염도_2015.xlsx
+-rw-r--r-- 1 sewookkim 1049089 669230 11월  6 19:37 일별평균대기오염도_2016.xlsx
+-rw-r--r-- 1 sewookkim 1049089 662983 11월  6 19:37 일별평균대기오염도_2017.xlsx
+-rw-r--r-- 1 sewookkim 1049089 577326 11월  6 19:37 일별평균대기오염도_2018.xlsx
+
+data_busstop:
+total 1360
+-rw-r--r-- 1 sewookkim 1049089 681219 11월 11 19:36 seoul_busstop_latlong.csv
+-rw-r--r-- 1 sewookkim 1049089 705619 11월 11 19:31 seoul_busstop_latlong.xlsx
+
+data_getonoffs:
+total 779153
+-rw-r--r-- 1 sewookkim 1049089 178028433 11월  6 18:33 2015_getonoffs_per_line_stop_time.csv
+-rw-r--r-- 1 sewookkim 1049089 168684163 11월  6 18:33 2016_getonoffs_per_line_stop_time.csv
+-rw-r--r-- 1 sewookkim 1049089 185714296 11월  6 18:33 2017_getonoffs_per_line_stop_time.csv
+-rw-r--r-- 1 sewookkim 1049089 175835828 11월  6 18:33 2018_getonoffs_per_line_stop_time.csv
+-rw-r--r-- 1 sewookkim 1049089  68952290 11월  6 18:33 2019_getonoffs_per_line_stop_time(01_07).csv
+-rw-r--r-- 1 sewookkim 1049089  10328740 11월  6 18:33 2019_getonoffs_per_line_stop_time(08).csv
+-rw-r--r-- 1 sewookkim 1049089  10294788 11월  6 18:33 2019_getonoffs_per_line_stop_time(09).csv
+-rw-r--r-- 1 sewookkim 1049089       282  7월 12 13:18 desktop.ini
+
+data_line:
+total 11728
+-rw-r--r-- 1 sewookkim 1049089 3516858 11월 13 19:44 20190124_bus_lines.csv
+-rw-r--r-- 1 sewookkim 1049089 1488896 11월 13 19:42 20190124기준_서울시_노선현황.xls
+-rw-r--r-- 1 sewookkim 1049089 6996992 11월 13 19:42 20190124기준_서울시_버스노선정보.xls
+
+data_weather:
+total 48
+-rw-r--r-- 1 sewookkim 1049089 45792 11월  8 13:48 weatherdata.csv
